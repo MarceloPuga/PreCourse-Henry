@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Repositorio del precourse henry modulo2
+Prueba de como crear un repositorio desde Github y clonarlo a la computadora
